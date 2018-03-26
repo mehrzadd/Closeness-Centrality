@@ -2,6 +2,7 @@
 Computing the closeness centrality for all vertices in an unweighted network.
 
 Input: from the command line the name of the edge list file of an undirected graph. 
+
 For example:
 
 python Closeness_Centrality.py MyGraph.txt
